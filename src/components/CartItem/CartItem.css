@@ -1,0 +1,17 @@
+.cart-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(207, 215, 215);
+    margin-top: 10px;
+    padding: 0 5px;
+    border-radius: 8px;
+}
+.btn-x button{
+    border: none;
+    border-radius: 8px;
+    color: red;
+    background-color: rgb(252, 194, 191);
+    font-size: 16px;
+    font-weight: bold;
+}

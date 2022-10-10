@@ -1,0 +1,29 @@
+.tshirt img {
+    height: 200px;
+    width: 200px;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.tshirt {
+    background-color: azure;
+    box-shadow: 2px 2px gainsboro;
+    border-radius: 8px;
+}
+
+.tshirt button {
+    border: none;
+    width: 70%;
+    height: 40px;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(95, 96, 96);
+    border-radius: 8px 8px 0px 0px;
+
+}
+
+.tshirt-price {
+    color: tomato;
+    font-weight: 900;
+}
